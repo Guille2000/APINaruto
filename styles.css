@@ -1,0 +1,11 @@
+.nombres{
+    text-align:center;
+    margin-left:3rem;
+    font-family: 'Caveat Brush', cursive;
+    font-size:3rem;
+    color:#f2a30b;
+    display:flex;
+    flex-direction: column;
+    width:90%;
+    margin:0 auto;
+}
